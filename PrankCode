@@ -1,0 +1,4 @@
+for /L %%A in (1,1,10) DO (
+start "new window" https://youtu.be/dQw4w9WgXcQ
+timeout /t 3 /nobreak
+)
